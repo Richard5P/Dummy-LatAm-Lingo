@@ -12,7 +12,7 @@
 
 ## Site owner:
 
-- Boutique language school with physical classrooms in four LatAm countries. The school founders are a group of indigenous and mestizaje friends who met at university and shared the same dismay about how little their classmates (and society in general) knew about the LatAm indigenous population. Beyond the professional desire for a profitable business is their societal goal of education and awareness about their native heritage. The start-up is partially funded by government and NGO heritage organisations.
+- Boutique language school with physical classrooms in four LatAm countries. The school founders are a group of indigenous and mestizaje friends who met at university and shared the same dismay about how little their classmates (and society in general) knew about the LatAm indigenous population. Beyond the professional desire for a profitable business is their societal goal of education and awareness about their native heritage. The government and NGO heritage organisations partially fund the start-up.
 
 ## Site owner's goal:
 
@@ -37,14 +37,11 @@
 
 ## Target Market
 
-User community includes students, tourists, professionals, and locals.
+User community includes students, tourists, professionals, and locals. Although more in-depth user scenarios will be covered in the Scope Plan, a typical user of this site is:
 
-1. Technology
-2. Education
-
-## Personas
-
-1. I am a university student and I want to ….
+- Educated
+- Adventurous
+- Comfortable with navigating an app
 
 ## Potential features to include:
 
@@ -66,22 +63,6 @@ User community includes students, tourists, professionals, and locals.
 
 .
 
-## Future features to include:
-
-- Streamline the process for choosing and enrolling in one or more classes.
-- Choice of website language.
-- Online classes.
-- Student blog.
-
-## Scope limitations in this release:
-
-- The number of classes offered.
-- Static nature of product offering.
-- English-only website.
-- Website developer skills.
-
 ## Elevator Pitch:
 
 LatAm Lingo will help you to speak like a native and build the cultural awareness essential to effective communication.
-
-Author: Richard Deutsch
